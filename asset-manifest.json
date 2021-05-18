@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Gift-Expert-App/static/css/main.da40e246.chunk.css",
+    "main.js": "/Gift-Expert-App/static/js/main.cbed7993.chunk.js",
+    "main.js.map": "/Gift-Expert-App/static/js/main.cbed7993.chunk.js.map",
+    "runtime-main.js": "/Gift-Expert-App/static/js/runtime-main.97c013b0.js",
+    "runtime-main.js.map": "/Gift-Expert-App/static/js/runtime-main.97c013b0.js.map",
+    "static/css/2.a1596f27.chunk.css": "/Gift-Expert-App/static/css/2.a1596f27.chunk.css",
+    "static/js/2.e165c758.chunk.js": "/Gift-Expert-App/static/js/2.e165c758.chunk.js",
+    "static/js/2.e165c758.chunk.js.map": "/Gift-Expert-App/static/js/2.e165c758.chunk.js.map",
+    "index.html": "/Gift-Expert-App/index.html",
+    "static/css/2.a1596f27.chunk.css.map": "/Gift-Expert-App/static/css/2.a1596f27.chunk.css.map",
+    "static/css/main.da40e246.chunk.css.map": "/Gift-Expert-App/static/css/main.da40e246.chunk.css.map",
+    "static/js/2.e165c758.chunk.js.LICENSE.txt": "/Gift-Expert-App/static/js/2.e165c758.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97c013b0.js",
+    "static/css/2.a1596f27.chunk.css",
+    "static/js/2.e165c758.chunk.js",
+    "static/css/main.da40e246.chunk.css",
+    "static/js/main.cbed7993.chunk.js"
+  ]
+}
